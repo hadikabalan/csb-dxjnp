@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https://ahmadkatrib13.github.io/csb-dxjnp/static/css/main.2ce6932b.chunk.css",
+    "main.js": "https://ahmadkatrib13.github.io/csb-dxjnp/static/js/main.0204bba5.chunk.js",
+    "main.js.map": "https://ahmadkatrib13.github.io/csb-dxjnp/static/js/main.0204bba5.chunk.js.map",
+    "runtime-main.js": "https://ahmadkatrib13.github.io/csb-dxjnp/static/js/runtime-main.3fe39943.js",
+    "runtime-main.js.map": "https://ahmadkatrib13.github.io/csb-dxjnp/static/js/runtime-main.3fe39943.js.map",
+    "static/js/2.79c4650e.chunk.js": "https://ahmadkatrib13.github.io/csb-dxjnp/static/js/2.79c4650e.chunk.js",
+    "static/js/2.79c4650e.chunk.js.map": "https://ahmadkatrib13.github.io/csb-dxjnp/static/js/2.79c4650e.chunk.js.map",
+    "index.html": "https://ahmadkatrib13.github.io/csb-dxjnp/index.html",
+    "static/css/main.2ce6932b.chunk.css.map": "https://ahmadkatrib13.github.io/csb-dxjnp/static/css/main.2ce6932b.chunk.css.map",
+    "static/js/2.79c4650e.chunk.js.LICENSE.txt": "https://ahmadkatrib13.github.io/csb-dxjnp/static/js/2.79c4650e.chunk.js.LICENSE.txt",
+    "static/media/LOGO.bac0def5.svg": "https://ahmadkatrib13.github.io/csb-dxjnp/static/media/LOGO.bac0def5.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3fe39943.js",
+    "static/js/2.79c4650e.chunk.js",
+    "static/css/main.2ce6932b.chunk.css",
+    "static/js/main.0204bba5.chunk.js"
+  ]
+}
